@@ -39,11 +39,11 @@
 
 ## Example Usage
 
-### Input:
+__Input:__
 
 __4321__
 
-### Output:
+__Output:__
 
 __1234__
 
